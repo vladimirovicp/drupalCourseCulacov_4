@@ -1,5 +1,9 @@
 # Интернет магазин и портал на Drupal 9
 
+## ddev comands
+> * **Экспорт:** ddev export-db --file=./private/db/current.sql.gz
+> * **Импорт:** ddev import-db --src=./private/db/ssudev.sql.gz
+
 ## Модули
 > * [admin toolbar](https://www.drupal.org/project/admin_toolbar)
 > * [devel](https://www.drupal.org/project/devel)
