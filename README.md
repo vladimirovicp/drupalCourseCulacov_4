@@ -48,3 +48,9 @@
 > * Commerce Store
 
 ### 4.3 Валюта и магазин
+
+> * Создаем валюту(../admin/commerce/config/currencies)
+> * Типы магазина
+> * Создаем Магазин
+
+### 4.4 Order Type и Order Item Type
